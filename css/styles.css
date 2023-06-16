@@ -525,14 +525,6 @@ img {
   color: #8e8f99;
 }
 
-.customers-link:hover {
-  background-color: #404bbf;
-}
-
-.customers-link:focus {
-  background-color: #404bbf;
-}
-
 .socials-footer-list {
   list-style: none;
   display: flex;
