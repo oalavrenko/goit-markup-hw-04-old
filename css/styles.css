@@ -533,7 +533,9 @@ img {
 
 .socials-desc {
   margin-left: 120px;
-  padding-bottom: 16px;
+  font-weight: 500;
+  color: #ffffff;
+  margin-bottom: 16px;
 }
 
 .socials-link {
@@ -577,9 +579,28 @@ img {
 }
 .footer-cont {
   display: flex;
+  align-items: baseline;
+}
+
+.cont-one {
+  margin-right: 120px;
 }
 
 .section-five {
   padding-top: 120px;
   padding-bottom: 120px;
+}
+
+.portf-link {
+  display: block;
+}
+
+.portf-link:hover {
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
+}
+
+.portf-link:focus {
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
