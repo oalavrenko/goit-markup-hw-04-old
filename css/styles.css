@@ -507,10 +507,12 @@ img {
 
 .customers-link:focus {
   border: 1px solid #404bbf;
+  color: #404bbf;
 }
 
 .customers-link:hover {
   border: 1px solid #404bbf;
+  color: #404bbf;
 }
 
 .customers-link {
