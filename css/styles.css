@@ -417,8 +417,11 @@ img {
   height: 600px;
   left: 0px;
   top: 72px;
+  display: flex;
   text-align: center;
   justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
   padding: 188px 0;
   background-image: linear-gradient(
       rgba(46, 47, 66, 0.7),
@@ -491,7 +494,6 @@ img {
   justify-content: center;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 120px;
   gap: 24px;
 }
 
@@ -503,8 +505,6 @@ img {
 .customers-item {
   height: 88px;
   width: 168px;
-  border: 1px solid #8e8f99;
-  border-radius: 4px;
   fill: currentColor;
 }
 
