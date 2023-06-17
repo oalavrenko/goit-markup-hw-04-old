@@ -357,6 +357,10 @@ img {
   color: #434455;
 }
 
+.footer-icons {
+  fill: #f4f4fd;
+}
+
 .footer-desc {
   font-style: normal;
   line-height: 24px;
@@ -495,6 +499,7 @@ img {
 
 .customer {
   height: 88px;
+  width: calc((100% - 120px) / 6);
 }
 
 .customers-item {
