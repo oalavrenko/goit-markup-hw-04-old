@@ -91,7 +91,6 @@ img {
   padding-bottom: 120px;
 }
 .portfolio-example {
-  border: 1px solid #e7e9fc;
   width: calc((100% - 48px) / 3);
 }
 
@@ -312,7 +311,6 @@ img {
 }
 
 .customers-h {
-  margin-top: 120px;
   margin-bottom: 72px;
 }
 
@@ -359,14 +357,6 @@ img {
 
 .footer-icons {
   fill: #f4f4fd;
-}
-
-.footer-desc {
-  font-style: normal;
-  line-height: 24px;
-  letter-spacing: 0.02em;
-  color: #f4f4fd;
-  max-width: 264px;
 }
 
 .footer-logo {
@@ -536,14 +526,17 @@ img {
   list-style: none;
   display: flex;
   gap: 16px;
-  margin-left: 120px;
 }
 
-.socials-footer-item {
+.footer-desc {
+  font-style: normal;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+  max-width: 264px;
 }
 
 .socials-desc {
-  margin-left: 120px;
   font-weight: 500;
   color: #ffffff;
   margin-bottom: 16px;
